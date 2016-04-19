@@ -1,1 +1,1 @@
-# Kodno ime projekta: sirnica
+# Kodno ime projekta: Sirnica
